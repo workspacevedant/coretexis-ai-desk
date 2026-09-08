@@ -1,0 +1,1 @@
+export default function App(){return(<main style={{display:'grid',placeItems:'center',minHeight:'100vh',background:'#0B0F19',color:'white'}}><div style={{textAlign:'center'}}><h1>Coretexis AI Desk</h1><p>Snapdragon Edition</p></div></main>)}
